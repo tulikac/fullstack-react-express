@@ -1,0 +1,17 @@
+{
+  "name": "fullstack-react-express-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Express API component for the React and Express full-stack shape sample.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}
